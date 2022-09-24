@@ -20,6 +20,7 @@ main{
     font-family: 'Red Hat Display', sans-serif;
     background-color: #fff;
     border-radius: 1.25rem;
+    box-shadow: 0rem 2.5rem 2.5rem -1.25rem rgba(13, 48, 189, 0.151826);
 }
 #hero{
     max-width: 100%;
@@ -156,6 +157,7 @@ section{
         font-family: 'Red Hat Display', sans-serif;
         background-color: #fff;
         border-radius: 1.25rem;
+        box-shadow: 0rem 2.5rem 2.5rem -1.25rem rgba(13, 48, 189, 0.151826);
     }
     #hero{
         max-width: 100%;
